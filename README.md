@@ -1,8 +1,8 @@
 ## Hey there 👋
 
 
-- 🔭 I’m currently working on something game-changing in the finance space!
-- 🌱 I’m currently focusing on Network Security and Artificial Intelligence
+- 🔭 I’m currently working on something game-changing in the cybersecurity space!
+- 🌱 I’m currently focusing on Cyber and Network Security.
 - 🔨 If you're interested in building with me, feel free to message me via email.
 - ✉️ sagbho[at]umich[dot]edu
   
